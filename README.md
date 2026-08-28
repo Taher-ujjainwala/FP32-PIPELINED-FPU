@@ -184,7 +184,7 @@ When the exponent difference is large and the smaller mantissa is shifted right,
 
 ## Author
 
-**Your Name**  
+**Taher Ujjainwala**  
 B.Tech / M.Tech — Electronics & Communication / VLSI  
 
 [LinkedIn](https://www.linkedin.com/in/taher-ujjainwala-a24a07349?utm_source=share_via&utm_content=profile&utm_medium=member_android)· [GitHub](https://github.com/Taher-ujjainwala)
